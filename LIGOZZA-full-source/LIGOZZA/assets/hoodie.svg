@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 430">
+    <defs><radialGradient id="bg"><stop offset="0" stop-color="#f8f8f8"/><stop offset="1" stop-color="#dedede"/></radialGradient></defs>
+    <rect width="500" height="430" rx="26" fill="url(#bg)"/>
+    <path d="M150 170 Q150 115 205 95 L245 125 L275 105 L330 135 Q355 150 360 185 L340 360 H140 Z" fill="#111"/><path d="M205 95 Q245 155 285 95" fill="none" stroke="#555" stroke-width="7"/><text x="250" y="245" text-anchor="middle" fill="#ffffff" font-size="20" font-family="Arial" letter-spacing="5">LIGOZZA</text>
+    <text x="250" y="395" text-anchor="middle" fill="#777" font-size="12" font-family="Arial" letter-spacing="3">LIGOZZA HOODIE</text>
+    </svg>
